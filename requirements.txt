@@ -1,4 +1,4 @@
 Flask
 requests
 gunicorn
-git+https://github.com/flightlevel/pymazda.git
+git+https://github.com/runDMCA/pymazda.git
