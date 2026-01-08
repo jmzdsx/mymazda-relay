@@ -1,4 +1,4 @@
-flask[async]
-git+https://github.com/bdr99/pymazda.git
+Flask
 requests
 gunicorn
+pymazda==0.3.11
