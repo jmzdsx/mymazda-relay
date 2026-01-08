@@ -1,3 +1,4 @@
-flask
-pymazda
+flask[async]
+git+https://github.com/bdr99/pymazda.git
+requests
 gunicorn
